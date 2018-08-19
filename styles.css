@@ -1,5 +1,10 @@
 .boxes {
     text-align: center;
+    display: inline-block;
+    margin: 2em;
+    padding: 5em;
+    border: solid;
+    border-radius: 5em;
 }
 
 body {
@@ -10,4 +15,10 @@ body {
 a {
     text-decoration: none;
     color: black;
+}
+
+a:hover {
+    color: blue;
+    cursor: pointer;
+    font-weight: bold;
 }
