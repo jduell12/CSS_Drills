@@ -59,18 +59,3 @@ Now, Lets style!
 22. Give the new div a class name
 23. Assign a width, height, and background color to the div
 24. Position the div so its inline and to the left of the header
-
-Styling Specificity
-
-1. Insert 3 h1 tags into the html document, give each text for your favorite tv shows.
-2. Apply styling so that any and all h1’s have a font color of your choice.
-3. Add 2 more h1’s with 2 other tv shows, what immediately happens to their font color when you refresh the html doc?
-4. Give the original 3 h1’s all the same class.
-5. Give the additional 2 h1’s the same class (have it be different than the other 3)
-6. Apply styling by class name, have the first 3 h1’s get a new font color, don’t delete or comment out the original styling. Once you apply a new font color by class, refresh the page and see what it does.
-7. Do the same thing for the added 2 h1’s, give them a different font color by class name.
-8. Take note at what styling applied to a class does to what was already applied to ALL of the elements before.
-9. Rank each tv show you have (so all 5 h1’s), a rank of show1 would be the best. Have the rank be the id of each h1. At this point every h1 should have a class AND an id attribute.
-10. Apply styling using the id of each h1, give each a different color. Refresh the document and see how this type of styling changes what was already applied. Create 3 unordered lists each with 5 items, have the first list be 5 friends names, have the next be 5 places you want to travel to, and have the last list be your favorite restaurants.
-11. Apply the same steps covered in the directions to play with the specificity of styling on each of these lists.
-12. Wrap each list in a div, give the div a border that is 2 pixels thick, have it be solid and the color be black.
