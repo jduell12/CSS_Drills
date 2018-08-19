@@ -1,10 +1,35 @@
 .boxes {
     text-align: center;
-    display: inline-block;
-    margin: 2em;
+    display: block;
+    margin: 3em;
     padding: 5em;
     border: solid;
     border-radius: 5em;
+    
+    
+}
+
+.image {
+    width: 50em;
+    height: 50em;
+    background-color: azure;
+    position: inline;
+}
+
+#box1 {
+    background-color: antiquewhite;
+}
+
+#box2 {
+    background-color: floralwhite;
+}
+
+#box3 {
+    background-color: ghostwhite;
+}
+
+#box4 {
+    background-color: ivory;
 }
 
 body {
@@ -21,4 +46,14 @@ a:hover {
     color: blue;
     cursor: pointer;
     font-weight: bold;
+}
+
+span {
+    color: blue;
+    font-weight: 600;
+}
+
+img {
+    width: 30em;
+    height: 40em;
 }
